@@ -12,10 +12,12 @@
 
  
 <br>
-<p> http://localhost:3001/attStudentsStats Update data for all students<p> 
-<br>
- http://localhost:3001/getSheetData 
-Returns only the status of students
- http://localhost:3001/metadata 
-Returns general spreadsheet data
+<h2>http://localhost:3001/attStudentsStats
+ Update data for all students<h2>
+ <br>
+ <h2>http://localhost:3001/getSheetData 
+Returns only the status of students<h2>
+ <br>
+<h2> http://localhost:3001/metadata 
+Returns general spreadsheet data<h2>
 
