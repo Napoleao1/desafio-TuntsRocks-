@@ -11,7 +11,6 @@ In this challenge, the express library and also googleapis were used.
 
 
 
-
-* [Update data for all students](http://localhost:3001/attStudentsStats) (http://localhost:3001/attStudentsStats)
-* [Returns only the status of students](http://localhost:3001/getSheetData) (http://localhost:3001/getSheetData)
-* [Returns general spreadsheet data](http://localhost:3001/metadata) (http://localhost:3001/metadata)
+* [http://localhost:3001/attStudentsStats](Update data for all students)
+* [http://localhost:3001/getSheetData](Returns only the status of students)
+* [http://localhost:3001/metadata](Returns general spreadsheet data)
