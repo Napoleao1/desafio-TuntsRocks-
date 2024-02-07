@@ -1,6 +1,5 @@
 <h1> Desafio TuntsRocks <h1>
- 
-<h3> This challenge involves automating data updates in a Google Sheets spreadsheet using the Google Sheets API. <br> The Node.js code utilizes the googleapis library for authentication and manipulating data in the spreadsheet. <h3>
+ <h3> This challenge involves automating data updates in a Google Sheets spreadsheet using the Google Sheets API. <br> The Node.js code utilizes the googleapis library for authentication and manipulating data in the spreadsheet. <h3>
 
 <p> In this challenge, the express library and also googleapis were used.
 <P>
@@ -12,12 +11,12 @@
 
  
 <br>
-<h2>http://localhost:3001/attStudentsStats
- Update data for all students<h2>
+*http://localhost:3001/attStudentsStats 
+ [Update data for all students]
  <br>
- <h2>http://localhost:3001/getSheetData 
-Returns only the status of students<h2>
+*http://localhost:3001/getSheetData 
+Returns only the status of students
  <br>
-<h2> http://localhost:3001/metadata 
-Returns general spreadsheet data<h2>
+*http://localhost:3001/metadata 
+Returns general spreadsheet data
 
